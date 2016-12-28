@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "intent": "GetFoodType",
+      "slots": [
+        {
+          "name": "types",
+          "type": "LIST_OF_TYPES"
+        }
+      ]
+    },
+	{
+   	  "intent" : "AMAZON.HelpIntent"
+    },
+	{
+      "intent" : "AMAZON.StopIntent"
+    },
+    {
+      "intent" : "AMAZON.CancelIntent"
+    }
+  ]
+}
