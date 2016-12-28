@@ -1,4 +1,4 @@
-# I-m-Sick-of-Food
+# I'm Sick of Food
 
 I'm Sick of Food is an Alexa skill programmed by Lucas Puskaric.
 
